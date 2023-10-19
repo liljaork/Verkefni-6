@@ -1,4 +1,6 @@
 {
   "extends": ["stylelint-config-sass-guidelines"],
-  "rules": {}
+  "rules": {
+    "selector-no-qualifying-type": null
+  }
 }
